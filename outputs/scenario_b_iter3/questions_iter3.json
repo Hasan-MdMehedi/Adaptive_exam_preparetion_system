@@ -1,0 +1,299 @@
+{
+  "iteration": 3,
+  "session_id": "690ea0ad-cded-4d62-aac4-1556a96bde61",
+  "sections": [
+    8
+  ],
+  "is_adaptive": true,
+  "total_questions": 5,
+  "questions": [
+    {
+      "question_id": "8d45c2a7-95e1-4846-b9a9-743532b133f0",
+      "section_id": 8,
+      "question": "Which of the following describes the operational restriction status and reason for Salar de Uyuni Sector 4 (Bolivia)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No PAMC operations authorized due to a pending bilateral agreement."
+        },
+        {
+          "label": "B",
+          "text": "Limited access with prior coordination required, due to an ongoing classified PAMC investigation since 2023."
+        },
+        {
+          "label": "C",
+          "text": "Complete exclusion zone because of psychological and CBMP recommendations; the asset has not entered since 2020."
+        },
+        {
+          "label": "D",
+          "text": "Active operational zone requiring quarterly rotation of assets."
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "Section 8.6 states that Salar de Uyuni Sector 4 (Bolivia) is restricted due to a 'Strategic; ongoing classified PAMC investigation since 2023' and its status is 'Limited access, prior coordination required'.",
+      "topic_tag": "Restricted and Forbidden Zones",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "8b5679b3-9394-4428-b401-2971962fbfe0",
+      "section_id": 8,
+      "question": "Which of the following options is NOT part of the standardized safehouse provisioning standard maintained at each of the five operational safehouses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30-day rations for 4 personnel"
+        },
+        {
+          "label": "B",
+          "text": "Yatiri-2 backup comms unit"
+        },
+        {
+          "label": "C",
+          "text": "4 Calexin-7 spare blister packs"
+        },
+        {
+          "label": "D",
+          "text": "2,000 USD-equivalent local currency in mixed denominations"
+        }
+      ],
+      "correct_label": "C",
+      "explanation": "Section 8.3 lists '2 Calexin-7 spare blister packs' as the standard safehouse provisioning requirement, not 4.",
+      "topic_tag": "Safehouse Operations",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "39302267-0900-4913-a5a3-1d90c1770684",
+      "section_id": 8,
+      "question": "What is the designated function of the secondary base located at Annex Industrial Park 7, Trelew, Argentina?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PAMC Headquarters; the asset rotates through quarterly for senior briefings"
+        },
+        {
+          "label": "B",
+          "text": "Field office, Bolivian altiplano operations"
+        },
+        {
+          "label": "C",
+          "text": "Logistics-only annex, southern operations"
+        },
+        {
+          "label": "D",
+          "text": "Regional CBMP medical office and micro-lab"
+        }
+      ],
+      "correct_label": "C",
+      "explanation": "Section 8.2 lists the function of the Trelew secondary base (Annex Industrial Park 7) as 'Logistics-only annex, southern operations'.",
+      "topic_tag": "Secondary Base Functions",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "f49dbc54-e67c-43d4-aea0-c172744651cc",
+      "section_id": 8,
+      "question": "To ensure node redundancy within the PAMC Yatiri network, what is the minimum communication requirement for each cell-led operation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct line-of-comms to at least 1 primary Yatiri relay node and 2 backup satellite uplinks."
+        },
+        {
+          "label": "B",
+          "text": "Line-of-comms to at least 2 nodes."
+        },
+        {
+          "label": "C",
+          "text": "Continuous satellite uplink connection directly to the Valparaíso node."
+        },
+        {
+          "label": "D",
+          "text": "Line-of-comms to all 8 burst-relay nodes simultaneously."
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "Section 8.7 states under node redundancy: 'each cell-led operation requires line-of-comms to at least 2 nodes.'",
+      "topic_tag": "Communications Infrastructure",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "6d271304-d3a4-4660-b415-51326093c78c",
+      "section_id": 8,
+      "question": "According to the dossier, who is responsible for auditing the safehouse provisioning, and how frequently do these audits occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cell Halcón's regional director, audited quarterly"
+        },
+        {
+          "label": "B",
+          "text": "Cpl. Vendrame, audited semi-annually"
+        },
+        {
+          "label": "C",
+          "text": "The asset, audited every 36 months"
+        },
+        {
+          "label": "D",
+          "text": "Operative MIRADOR, audited annually"
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "Section 8.3 states that safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
+      "topic_tag": "Safehouse Operations",
+      "source_chunk": ""
+    }
+  ],
+  "session_result": {
+    "session_id": "690ea0ad-cded-4d62-aac4-1556a96bde61",
+    "sections": [
+      8
+    ],
+    "timestamp": "2026-05-22T14:46:10.579772+00:00",
+    "total_questions": 5,
+    "correct_count": 1,
+    "wrong_count": 4,
+    "score_pct": 20.0,
+    "results": [
+      {
+        "question_id": "8d45c2a7-95e1-4846-b9a9-743532b133f0",
+        "section_id": 8,
+        "question": "Which of the following describes the operational restriction status and reason for Salar de Uyuni Sector 4 (Bolivia)?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "No PAMC operations authorized due to a pending bilateral agreement."
+          },
+          {
+            "label": "B",
+            "text": "Limited access with prior coordination required, due to an ongoing classified PAMC investigation since 2023."
+          },
+          {
+            "label": "C",
+            "text": "Complete exclusion zone because of psychological and CBMP recommendations; the asset has not entered since 2020."
+          },
+          {
+            "label": "D",
+            "text": "Active operational zone requiring quarterly rotation of assets."
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "B",
+        "is_correct": true,
+        "explanation": "Section 8.6 states that Salar de Uyuni Sector 4 (Bolivia) is restricted due to a 'Strategic; ongoing classified PAMC investigation since 2023' and its status is 'Limited access, prior coordination required'.",
+        "topic_tag": "Restricted and Forbidden Zones"
+      },
+      {
+        "question_id": "8b5679b3-9394-4428-b401-2971962fbfe0",
+        "section_id": 8,
+        "question": "Which of the following options is NOT part of the standardized safehouse provisioning standard maintained at each of the five operational safehouses?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "30-day rations for 4 personnel"
+          },
+          {
+            "label": "B",
+            "text": "Yatiri-2 backup comms unit"
+          },
+          {
+            "label": "C",
+            "text": "4 Calexin-7 spare blister packs"
+          },
+          {
+            "label": "D",
+            "text": "2,000 USD-equivalent local currency in mixed denominations"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "B",
+        "is_correct": false,
+        "explanation": "Section 8.3 lists '2 Calexin-7 spare blister packs' as the standard safehouse provisioning requirement, not 4.",
+        "topic_tag": "Safehouse Operations"
+      },
+      {
+        "question_id": "39302267-0900-4913-a5a3-1d90c1770684",
+        "section_id": 8,
+        "question": "What is the designated function of the secondary base located at Annex Industrial Park 7, Trelew, Argentina?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "PAMC Headquarters; the asset rotates through quarterly for senior briefings"
+          },
+          {
+            "label": "B",
+            "text": "Field office, Bolivian altiplano operations"
+          },
+          {
+            "label": "C",
+            "text": "Logistics-only annex, southern operations"
+          },
+          {
+            "label": "D",
+            "text": "Regional CBMP medical office and micro-lab"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "B",
+        "is_correct": false,
+        "explanation": "Section 8.2 lists the function of the Trelew secondary base (Annex Industrial Park 7) as 'Logistics-only annex, southern operations'.",
+        "topic_tag": "Secondary Base Functions"
+      },
+      {
+        "question_id": "f49dbc54-e67c-43d4-aea0-c172744651cc",
+        "section_id": 8,
+        "question": "To ensure node redundancy within the PAMC Yatiri network, what is the minimum communication requirement for each cell-led operation?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Direct line-of-comms to at least 1 primary Yatiri relay node and 2 backup satellite uplinks."
+          },
+          {
+            "label": "B",
+            "text": "Line-of-comms to at least 2 nodes."
+          },
+          {
+            "label": "C",
+            "text": "Continuous satellite uplink connection directly to the Valparaíso node."
+          },
+          {
+            "label": "D",
+            "text": "Line-of-comms to all 8 burst-relay nodes simultaneously."
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "A",
+        "is_correct": false,
+        "explanation": "Section 8.7 states under node redundancy: 'each cell-led operation requires line-of-comms to at least 2 nodes.'",
+        "topic_tag": "Communications Infrastructure"
+      },
+      {
+        "question_id": "6d271304-d3a4-4660-b415-51326093c78c",
+        "section_id": 8,
+        "question": "According to the dossier, who is responsible for auditing the safehouse provisioning, and how frequently do these audits occur?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Cell Halcón's regional director, audited quarterly"
+          },
+          {
+            "label": "B",
+            "text": "Cpl. Vendrame, audited semi-annually"
+          },
+          {
+            "label": "C",
+            "text": "The asset, audited every 36 months"
+          },
+          {
+            "label": "D",
+            "text": "Operative MIRADOR, audited annually"
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "D",
+        "is_correct": false,
+        "explanation": "Section 8.3 states that safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
+        "topic_tag": "Safehouse Operations"
+      }
+    ]
+  }
+}

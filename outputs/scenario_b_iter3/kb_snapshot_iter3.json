@@ -1,0 +1,97 @@
+{
+  "snapshot_taken_at": "2026-05-22T14:46:10.616877+00:00",
+  "sessions_shown": 5,
+  "records": [
+    {
+      "session_id": "690ea0ad-cded-4d62-aac4-1556a96bde61",
+      "timestamp": "2026-05-22T14:46:10.579772+00:00",
+      "sections": [
+        8
+      ],
+      "score_pct": 20.0,
+      "total_questions": 5,
+      "correct_count": 1,
+      "wrong_count": 4,
+      "weak_topics": [
+        "Safehouse Operations",
+        "Restricted and Forbidden Zones",
+        "Secondary Base Functions",
+        "Communications Infrastructure"
+      ]
+    },
+    {
+      "session_id": "7428b6f2-08b0-4f3e-9d06-65a15a873667",
+      "timestamp": "2026-05-22T14:45:54.094562+00:00",
+      "sections": [
+        8,
+        9,
+        6
+      ],
+      "score_pct": 26.67,
+      "total_questions": 15,
+      "correct_count": 4,
+      "wrong_count": 11,
+      "weak_topics": [
+        "Quebrantadero Operational Failure",
+        "Drift Read Validation",
+        "Cell Halcón Profiles",
+        "Segmented Suspension Workaround",
+        "Extra-Territorial Joint Operations"
+      ]
+    },
+    {
+      "session_id": "c7fc9069-07a1-457b-948d-4e77c324c5b8",
+      "timestamp": "2026-05-22T14:45:12.201248+00:00",
+      "sections": [
+        8,
+        5
+      ],
+      "score_pct": 70.0,
+      "total_questions": 10,
+      "correct_count": 7,
+      "wrong_count": 3,
+      "weak_topics": [
+        "Drop-Tune Manoeuvre",
+        "Safehouse Operations",
+        "Restricted and Forbidden Zones",
+        "Secondary Base Functions",
+        "Communications Infrastructure"
+      ]
+    },
+    {
+      "session_id": "5cdea2d1-3826-4806-b8aa-2bde28ab84be",
+      "timestamp": "2026-05-22T14:20:40.887163+00:00",
+      "sections": [
+        1
+      ],
+      "score_pct": 80.0,
+      "total_questions": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "weak_topics": [
+        "Physical Characteristics",
+        "Operational Constraints",
+        "Language Proficiencies",
+        "Asset Designations",
+        "Academic Education"
+      ]
+    },
+    {
+      "session_id": "381f8449-ac8a-482a-b362-53c890445b28",
+      "timestamp": "2026-05-22T14:19:44.074510+00:00",
+      "sections": [
+        5
+      ],
+      "score_pct": 80.0,
+      "total_questions": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "weak_topics": [
+        "Drop-Tune Manoeuvre",
+        "Doctrine of Sequential Suspension",
+        "Three-Two-One Rule Violations"
+      ]
+    }
+  ],
+  "iteration": 3
+}

@@ -1,0 +1,97 @@
+{
+  "snapshot_taken_at": "2026-05-22T14:45:54.133867+00:00",
+  "sessions_shown": 5,
+  "records": [
+    {
+      "session_id": "7428b6f2-08b0-4f3e-9d06-65a15a873667",
+      "timestamp": "2026-05-22T14:45:54.094562+00:00",
+      "sections": [
+        8,
+        9,
+        6
+      ],
+      "score_pct": 26.67,
+      "total_questions": 15,
+      "correct_count": 4,
+      "wrong_count": 11,
+      "weak_topics": [
+        "Quebrantadero Operational Failure",
+        "Drift Read Validation",
+        "Cell Halcón Profiles",
+        "Segmented Suspension Workaround",
+        "Extra-Territorial Joint Operations"
+      ]
+    },
+    {
+      "session_id": "c7fc9069-07a1-457b-948d-4e77c324c5b8",
+      "timestamp": "2026-05-22T14:45:12.201248+00:00",
+      "sections": [
+        8,
+        5
+      ],
+      "score_pct": 70.0,
+      "total_questions": 10,
+      "correct_count": 7,
+      "wrong_count": 3,
+      "weak_topics": [
+        "Drop-Tune Manoeuvre",
+        "Restricted and Forbidden Zones",
+        "Safehouse Operations",
+        "Secondary Base Functions",
+        "Doctrine of Sequential Suspension"
+      ]
+    },
+    {
+      "session_id": "5cdea2d1-3826-4806-b8aa-2bde28ab84be",
+      "timestamp": "2026-05-22T14:20:40.887163+00:00",
+      "sections": [
+        1
+      ],
+      "score_pct": 80.0,
+      "total_questions": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "weak_topics": [
+        "Physical Characteristics",
+        "Operational Constraints",
+        "Language Proficiencies",
+        "Asset Designations",
+        "Academic Education"
+      ]
+    },
+    {
+      "session_id": "381f8449-ac8a-482a-b362-53c890445b28",
+      "timestamp": "2026-05-22T14:19:44.074510+00:00",
+      "sections": [
+        5
+      ],
+      "score_pct": 80.0,
+      "total_questions": 5,
+      "correct_count": 4,
+      "wrong_count": 1,
+      "weak_topics": [
+        "Drop-Tune Manoeuvre",
+        "Doctrine of Sequential Suspension",
+        "Three-Two-One Rule Violations"
+      ]
+    },
+    {
+      "session_id": "457104d0-2445-4159-8a80-19aff3138dd2",
+      "timestamp": "2026-05-22T14:01:12.196831+00:00",
+      "sections": [
+        8
+      ],
+      "score_pct": 40.0,
+      "total_questions": 5,
+      "correct_count": 2,
+      "wrong_count": 3,
+      "weak_topics": [
+        "Restricted and Forbidden Zones",
+        "Safehouse Operations",
+        "Secondary Base Functions",
+        "Communications Infrastructure"
+      ]
+    }
+  ],
+  "iteration": 2
+}

@@ -1,0 +1,853 @@
+{
+  "iteration": 2,
+  "session_id": "7428b6f2-08b0-4f3e-9d06-65a15a873667",
+  "sections": [
+    6,
+    8,
+    9
+  ],
+  "is_adaptive": true,
+  "total_questions": 15,
+  "questions": [
+    {
+      "question_id": "d31cfe0e-2149-4582-9a18-398bfabc0dcc",
+      "section_id": 6,
+      "question": "Which of the following details accurately describes the metahuman capabilities and technical background of Lt. Solène Bauer-Cortez?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Class C-1 (Electromagnetic Sensing) — perceives EM emissions from 30 Hz to 6 GHz within 80 m; designed the Reset Bracers"
+        },
+        {
+          "label": "B",
+          "text": "Class B-2 (Thermal Imaging) — perceives thermal signatures from -50°C to 150°C within 150 m; designed the Calexin-7 delivery system"
+        },
+        {
+          "label": "C",
+          "text": "Class C-1 (Electromagnetic Sensing) — perceives EM emissions from 100 Hz to 10 GHz within 50 m; designed the CBMP containment grid"
+        },
+        {
+          "label": "D",
+          "text": "Class A-2 (Signal Interception) — intercepts radio frequencies from 1 MHz to 10 GHz within 120 m; designed the Andean Bureau telemetry array"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "According to the dossier, Lt. Solène Bauer-Cortez is classified as Class C-1 (Electromagnetic Sensing), perceives EM emissions from 30 Hz to 6 GHz within 80 m, and designed the Reset Bracers (§4.6).",
+      "topic_tag": "Cell Halcón Profiles",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "4b341702-4713-4fb9-ba62-8d4fa6741ea0",
+      "section_id": 6,
+      "question": "Which Cell Halcón member is a civilian who served 14 years in the Bolivian Special Forces (Regimiento Bolívar) and specializes in high-altitude tracking and alpine reconnaissance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cpl. Raúl Vendrame"
+        },
+        {
+          "label": "B",
+          "text": "Sgt. Mateo Quispe-Linares"
+        },
+        {
+          "label": "C",
+          "text": "Lt. Solène Bauer-Cortez"
+        },
+        {
+          "label": "D",
+          "text": "Comandante Ezequiel Ovalle-Garrido"
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "Sgt. Mateo Quispe-Linares is a civilian tracker with prior service of 14 years in the Bolivian Special Forces, Regimiento Bolívar, specializing in high-altitude tracking and alpine reconnaissance.",
+      "topic_tag": "Cell Halcón Profiles",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "ed7986f0-5f1a-4db8-961b-d61e1ac02c0b",
+      "section_id": 6,
+      "question": "What is the primary operational medical responsibility of civilian field medic Cpl. Raúl Vendrame within Cell Halcón?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Performing advanced neurosurgery in field conditions"
+        },
+        {
+          "label": "B",
+          "text": "Administering the asset's Calexin-7 regimen during operations"
+        },
+        {
+          "label": "C",
+          "text": "Monitoring the electromagnetic exposure limits of the team"
+        },
+        {
+          "label": "D",
+          "text": "Managing the psychological evaluations of metahuman operatives"
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "The dossier states that Cpl. Raúl Vendrame is the primary administrator of the asset's Calexin-7 regimen during operations.",
+      "topic_tag": "Cell Halcón Profiles",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "28006f00-e8a1-4a4f-95a5-997a00e1f8e2",
+      "section_id": 6,
+      "question": "Which senior PAMC ally is the asset's direct chain-of-command superior and is authorized to override all engagement decisions except Director-General-level orders?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dr. Léon Marrón-Saavedra"
+        },
+        {
+          "label": "B",
+          "text": "Director-General María-Elena Espósito-Tagle"
+        },
+        {
+          "label": "C",
+          "text": "Director Aída Salvatierra-Bunge"
+        },
+        {
+          "label": "D",
+          "text": "Inspector General Magnus Sletten"
+        }
+      ],
+      "correct_label": "C",
+      "explanation": "Director Aída Salvatierra-Bunge is the Operations Directorate Director and the asset's direct chain-of-command superior, authorized to override all engagement decisions except Director-General-level orders.",
+      "topic_tag": "Senior PAMC Allies",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "8a79bf42-e2c1-4bd4-832d-94be00b826b9",
+      "section_id": 6,
+      "question": "What is the civilian occupation and PAMC clearance status of Dr. Catalina Renström-Verdugo, the asset's spouse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pediatric oncologist at Clínica Las Condes; PAMC Civilian Liaison Clearance Level 3"
+        },
+        {
+          "label": "B",
+          "text": "Senior psychologist at PAMC Behavioral Health; PAMC Security Clearance Level 4"
+        },
+        {
+          "label": "C",
+          "text": "Clinical research director at ETH Zürich; PAMC Technical Clearance Level 2"
+        },
+        {
+          "label": "D",
+          "text": "Civilian intelligence asset in La Paz; PAMC Discretionary Clearance Level 1"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Dr. Catalina Renström-Verdugo is a pediatric oncologist at Clínica Las Condes, Santiago, and holds a PAMC Civilian Liaison Clearance Level 3 granted in January 2024.",
+      "topic_tag": "External Civilian Allies",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "ddb85398-f067-4a94-8198-d4357b3ed5e2",
+      "section_id": 8,
+      "question": "Which restricted zone within the asset's operational territory is completely forbidden for PAMC operations due to jurisdictional reasons pending a bilateral agreement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Salar de Uyuni Sector 4 (Bolivia)"
+        },
+        {
+          "label": "B",
+          "text": "Easter Island"
+        },
+        {
+          "label": "C",
+          "text": "Cerro Castillo exclusion ring"
+        },
+        {
+          "label": "D",
+          "text": "Trelew Industrial Park 7"
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "According to Section 8.6, Easter Island is restricted due to 'Jurisdictional; pending bilateral agreement' reasons, and its status is 'No PAMC operations authorized'.",
+      "topic_tag": "Restricted and Forbidden Zones",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "8a021570-a30c-4069-bb3d-932796ea5540",
+      "section_id": 8,
+      "question": "According to the standardized provisioning standard, which individual is responsible for auditing the asset's safehouses semi-annually?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hermana Mendieta"
+        },
+        {
+          "label": "B",
+          "text": "The Director-General"
+        },
+        {
+          "label": "C",
+          "text": "Cpl. Vendrame"
+        },
+        {
+          "label": "D",
+          "text": "Operative MIRADOR"
+        }
+      ],
+      "correct_label": "C",
+      "explanation": "Section 8.3 states that 'Safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.'",
+      "topic_tag": "Safehouse Operations",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "97e74b77-fada-440d-b60d-19b2c5d52734",
+      "section_id": 8,
+      "question": "What is the designated function of the secondary base located at Annex Industrial Park 7, Trelew, Argentina?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A field office for Bolivian altiplano operations"
+        },
+        {
+          "label": "B",
+          "text": "PAMC Headquarters for quarterly senior briefings"
+        },
+        {
+          "label": "C",
+          "text": "A logistics-only annex for southern operations"
+        },
+        {
+          "label": "D",
+          "text": "A regional CBMP medical office and micro-lab"
+        }
+      ],
+      "correct_label": "C",
+      "explanation": "Section 8.2 lists the function of the Trelew, Argentina location (Annex Industrial Park 7) as 'Logistics-only annex, southern operations'.",
+      "topic_tag": "Secondary Base Functions",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "9aee8ad3-678c-4c5e-84b8-4b420e523f3c",
+      "section_id": 8,
+      "question": "What are the minimum node redundancy requirements for cell-led operations within the PAMC Yatiri network?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Line-of-comms to at least 2 nodes"
+        },
+        {
+          "label": "B",
+          "text": "Line-of-comms to at least 1 primary node and 2 backup satellite uplinks"
+        },
+        {
+          "label": "C",
+          "text": "Direct connection to all 8 burst-relay nodes"
+        },
+        {
+          "label": "D",
+          "text": "Line-of-comms to at least 4 nodes"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Section 8.7 states that node redundancy requires 'each cell-led operation requires line-of-comms to at least 2 nodes.'",
+      "topic_tag": "Communications Infrastructure",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "45e468b1-8c78-4499-9a87-6eb253498b2b",
+      "section_id": 8,
+      "question": "Why is the asset restricted from entering the Cerro Castillo exclusion ring (1.6 km radius)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Due to ongoing classified PAMC investigations since 2023"
+        },
+        {
+          "label": "B",
+          "text": "Due to psychological reasons and a CBMP recommendation"
+        },
+        {
+          "label": "C",
+          "text": "Due to jurisdictional disputes and pending bilateral agreements"
+        },
+        {
+          "label": "D",
+          "text": "Due to a lack of Yatiri-2 communications network coverage"
+        }
+      ],
+      "correct_label": "B",
+      "explanation": "Section 8.6 specifies that the reason for the Cerro Castillo exclusion ring restriction is 'Psychological; CBMP recommendation since 2020'.",
+      "topic_tag": "Restricted and Forbidden Zones",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "f0aeff2f-1c4d-4ec5-a7bb-b74e38a5fe1c",
+      "section_id": 9,
+      "question": "During Case 2025-0156 (Cabrestante Neutralization), how was 'segmented suspension' applied as a tactical workaround for above-ceiling targets?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By suspending the hydraulic arm at the elbow joint rather than the full augment"
+        },
+        {
+          "label": "B",
+          "text": "By increasing the asset's mass-ceiling stability to 300 kg using Calexin-7"
+        },
+        {
+          "label": "C",
+          "text": "By synchronizing the suspension field with an Echo Lock event"
+        },
+        {
+          "label": "D",
+          "text": "By coordinating the deployment of high-lux kits across three active cells"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "According to Section 9.9, the Cabrestante Neutralization involved a 'coordinated cell engagement utilizing segmented suspension (suspending the hydraulic arm at the elbow joint rather than the full augment)' which served as a tactical workaround for above-ceiling targets.",
+      "topic_tag": "Segmented Suspension Workaround",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "dd838d2c-cb02-4ecf-b00e-9e48834b16d4",
+      "section_id": 9,
+      "question": "In the rare extra-territorial joint operation detailed in Case 2024-0156 (Tallinn-Asunción Liaison), which EUMR operatives did the asset coordinate with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HOLLOWMARK and VERIDIAN"
+        },
+        {
+          "label": "B",
+          "text": "Cataract and Cabrestante"
+        },
+        {
+          "label": "C",
+          "text": "Sgt. Quispe-Linares and Lt. Bauer-Cortez"
+        },
+        {
+          "label": "D",
+          "text": "Cpl. Adolfo Yáñez-Ríos and Director-General Espósito-Tagle"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Section 9.9.6 states that Case 2024-0156 was a joint operation with EUMR operatives HOLLOWMARK and VERIDIAN, during which the asset spent 9 days in Tallinn coordinating intelligence handoff.",
+      "topic_tag": "Extra-Territorial Joint Operations",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "36b96c76-87a9-410a-88b5-b17a55e83eb6",
+      "section_id": 9,
+      "question": "Which formal doctrine was articulated as a direct result of the pyrrhic outcome in Case 2022-0123 (Tropopausa First Engagement) in Mendoza?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Doctrine of Sequential Suspension"
+        },
+        {
+          "label": "B",
+          "text": "Doctrine of Segmented Suspension"
+        },
+        {
+          "label": "C",
+          "text": "Doctrine of Nocturnal Engagement"
+        },
+        {
+          "label": "D",
+          "text": "Doctrine of Extra-Territorial Interdiction"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Section 9.4 notes that the Mendoza engagement (Case 2022-0123) 'triggered formal articulation of the Doctrine of Sequential Suspension' after an operative was KIA and the target escaped.",
+      "topic_tag": "Doctrine of Sequential Suspension",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "e422557a-292f-4ee9-b2a8-c2391bf9a46b",
+      "section_id": 9,
+      "question": "Why is Case 2024-0202 (Quebrantadero Showdown) classified as 'Catastrophic' and studied at the Lima Academy as the asset's most prominent operational failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An Echo Lock pulse struck a civilian-density urban target, causing 11 civilian deaths and 27 injuries"
+        },
+        {
+          "label": "B",
+          "text": "The entire tactical cell was captured, resulting in a loss of USD $4.2 million in assets"
+        },
+        {
+          "label": "C",
+          "text": "The asset suffered permanent ear barotrauma, ending active field deployments"
+        },
+        {
+          "label": "D",
+          "text": "The Concession successfully compromised the PAMC HQ internal database in Lima"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Section 9.7 states that Case 2024-0202 had a 'Catastrophic' outcome because Quebrantadero's pulse struck a civilian-density urban target before SLATEFALL could interdict, resulting in 11 civilian deaths and 27 civilian injuries.",
+      "topic_tag": "Quebrantadero Operational Failure",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "236ae886-bbd2-45ff-a2ef-8dfdd996b4b4",
+      "section_id": 9,
+      "question": "In Case 2021-0091 (Atacama Altiplano), which of the asset's abilities was operationally validated and added to the capability registry after interdicting three incoming small-arms rounds?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drift Read"
+        },
+        {
+          "label": "B",
+          "text": "Suspended Field"
+        },
+        {
+          "label": "C",
+          "text": "Inertial Suspension"
+        },
+        {
+          "label": "D",
+          "text": "Segmented Suspension"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Section 9.9.5 states that Case 2021-0091 was the 'First operationally validated deployment of the newly emerged Drift Read ability,' which was subsequently added to the capability registry on 30 September 2021.",
+      "topic_tag": "Drift Read Validation",
+      "source_chunk": ""
+    }
+  ],
+  "session_result": {
+    "session_id": "7428b6f2-08b0-4f3e-9d06-65a15a873667",
+    "sections": [
+      8,
+      9,
+      6
+    ],
+    "timestamp": "2026-05-22T14:45:54.094562+00:00",
+    "total_questions": 15,
+    "correct_count": 4,
+    "wrong_count": 11,
+    "score_pct": 26.67,
+    "results": [
+      {
+        "question_id": "d31cfe0e-2149-4582-9a18-398bfabc0dcc",
+        "section_id": 6,
+        "question": "Which of the following details accurately describes the metahuman capabilities and technical background of Lt. Solène Bauer-Cortez?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Class C-1 (Electromagnetic Sensing) — perceives EM emissions from 30 Hz to 6 GHz within 80 m; designed the Reset Bracers"
+          },
+          {
+            "label": "B",
+            "text": "Class B-2 (Thermal Imaging) — perceives thermal signatures from -50°C to 150°C within 150 m; designed the Calexin-7 delivery system"
+          },
+          {
+            "label": "C",
+            "text": "Class C-1 (Electromagnetic Sensing) — perceives EM emissions from 100 Hz to 10 GHz within 50 m; designed the CBMP containment grid"
+          },
+          {
+            "label": "D",
+            "text": "Class A-2 (Signal Interception) — intercepts radio frequencies from 1 MHz to 10 GHz within 120 m; designed the Andean Bureau telemetry array"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "A",
+        "is_correct": true,
+        "explanation": "According to the dossier, Lt. Solène Bauer-Cortez is classified as Class C-1 (Electromagnetic Sensing), perceives EM emissions from 30 Hz to 6 GHz within 80 m, and designed the Reset Bracers (§4.6).",
+        "topic_tag": "Cell Halcón Profiles"
+      },
+      {
+        "question_id": "4b341702-4713-4fb9-ba62-8d4fa6741ea0",
+        "section_id": 6,
+        "question": "Which Cell Halcón member is a civilian who served 14 years in the Bolivian Special Forces (Regimiento Bolívar) and specializes in high-altitude tracking and alpine reconnaissance?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Cpl. Raúl Vendrame"
+          },
+          {
+            "label": "B",
+            "text": "Sgt. Mateo Quispe-Linares"
+          },
+          {
+            "label": "C",
+            "text": "Lt. Solène Bauer-Cortez"
+          },
+          {
+            "label": "D",
+            "text": "Comandante Ezequiel Ovalle-Garrido"
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "D",
+        "is_correct": false,
+        "explanation": "Sgt. Mateo Quispe-Linares is a civilian tracker with prior service of 14 years in the Bolivian Special Forces, Regimiento Bolívar, specializing in high-altitude tracking and alpine reconnaissance.",
+        "topic_tag": "Cell Halcón Profiles"
+      },
+      {
+        "question_id": "ed7986f0-5f1a-4db8-961b-d61e1ac02c0b",
+        "section_id": 6,
+        "question": "What is the primary operational medical responsibility of civilian field medic Cpl. Raúl Vendrame within Cell Halcón?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Performing advanced neurosurgery in field conditions"
+          },
+          {
+            "label": "B",
+            "text": "Administering the asset's Calexin-7 regimen during operations"
+          },
+          {
+            "label": "C",
+            "text": "Monitoring the electromagnetic exposure limits of the team"
+          },
+          {
+            "label": "D",
+            "text": "Managing the psychological evaluations of metahuman operatives"
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "D",
+        "is_correct": false,
+        "explanation": "The dossier states that Cpl. Raúl Vendrame is the primary administrator of the asset's Calexin-7 regimen during operations.",
+        "topic_tag": "Cell Halcón Profiles"
+      },
+      {
+        "question_id": "28006f00-e8a1-4a4f-95a5-997a00e1f8e2",
+        "section_id": 6,
+        "question": "Which senior PAMC ally is the asset's direct chain-of-command superior and is authorized to override all engagement decisions except Director-General-level orders?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Dr. Léon Marrón-Saavedra"
+          },
+          {
+            "label": "B",
+            "text": "Director-General María-Elena Espósito-Tagle"
+          },
+          {
+            "label": "C",
+            "text": "Director Aída Salvatierra-Bunge"
+          },
+          {
+            "label": "D",
+            "text": "Inspector General Magnus Sletten"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "A",
+        "is_correct": false,
+        "explanation": "Director Aída Salvatierra-Bunge is the Operations Directorate Director and the asset's direct chain-of-command superior, authorized to override all engagement decisions except Director-General-level orders.",
+        "topic_tag": "Senior PAMC Allies"
+      },
+      {
+        "question_id": "8a79bf42-e2c1-4bd4-832d-94be00b826b9",
+        "section_id": 6,
+        "question": "What is the civilian occupation and PAMC clearance status of Dr. Catalina Renström-Verdugo, the asset's spouse?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Pediatric oncologist at Clínica Las Condes; PAMC Civilian Liaison Clearance Level 3"
+          },
+          {
+            "label": "B",
+            "text": "Senior psychologist at PAMC Behavioral Health; PAMC Security Clearance Level 4"
+          },
+          {
+            "label": "C",
+            "text": "Clinical research director at ETH Zürich; PAMC Technical Clearance Level 2"
+          },
+          {
+            "label": "D",
+            "text": "Civilian intelligence asset in La Paz; PAMC Discretionary Clearance Level 1"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "A",
+        "is_correct": true,
+        "explanation": "Dr. Catalina Renström-Verdugo is a pediatric oncologist at Clínica Las Condes, Santiago, and holds a PAMC Civilian Liaison Clearance Level 3 granted in January 2024.",
+        "topic_tag": "External Civilian Allies"
+      },
+      {
+        "question_id": "ddb85398-f067-4a94-8198-d4357b3ed5e2",
+        "section_id": 8,
+        "question": "Which restricted zone within the asset's operational territory is completely forbidden for PAMC operations due to jurisdictional reasons pending a bilateral agreement?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Salar de Uyuni Sector 4 (Bolivia)"
+          },
+          {
+            "label": "B",
+            "text": "Easter Island"
+          },
+          {
+            "label": "C",
+            "text": "Cerro Castillo exclusion ring"
+          },
+          {
+            "label": "D",
+            "text": "Trelew Industrial Park 7"
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "B",
+        "is_correct": true,
+        "explanation": "According to Section 8.6, Easter Island is restricted due to 'Jurisdictional; pending bilateral agreement' reasons, and its status is 'No PAMC operations authorized'.",
+        "topic_tag": "Restricted and Forbidden Zones"
+      },
+      {
+        "question_id": "8a021570-a30c-4069-bb3d-932796ea5540",
+        "section_id": 8,
+        "question": "According to the standardized provisioning standard, which individual is responsible for auditing the asset's safehouses semi-annually?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Hermana Mendieta"
+          },
+          {
+            "label": "B",
+            "text": "The Director-General"
+          },
+          {
+            "label": "C",
+            "text": "Cpl. Vendrame"
+          },
+          {
+            "label": "D",
+            "text": "Operative MIRADOR"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "A",
+        "is_correct": false,
+        "explanation": "Section 8.3 states that 'Safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.'",
+        "topic_tag": "Safehouse Operations"
+      },
+      {
+        "question_id": "97e74b77-fada-440d-b60d-19b2c5d52734",
+        "section_id": 8,
+        "question": "What is the designated function of the secondary base located at Annex Industrial Park 7, Trelew, Argentina?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "A field office for Bolivian altiplano operations"
+          },
+          {
+            "label": "B",
+            "text": "PAMC Headquarters for quarterly senior briefings"
+          },
+          {
+            "label": "C",
+            "text": "A logistics-only annex for southern operations"
+          },
+          {
+            "label": "D",
+            "text": "A regional CBMP medical office and micro-lab"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "B",
+        "is_correct": false,
+        "explanation": "Section 8.2 lists the function of the Trelew, Argentina location (Annex Industrial Park 7) as 'Logistics-only annex, southern operations'.",
+        "topic_tag": "Secondary Base Functions"
+      },
+      {
+        "question_id": "9aee8ad3-678c-4c5e-84b8-4b420e523f3c",
+        "section_id": 8,
+        "question": "What are the minimum node redundancy requirements for cell-led operations within the PAMC Yatiri network?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Line-of-comms to at least 2 nodes"
+          },
+          {
+            "label": "B",
+            "text": "Line-of-comms to at least 1 primary node and 2 backup satellite uplinks"
+          },
+          {
+            "label": "C",
+            "text": "Direct connection to all 8 burst-relay nodes"
+          },
+          {
+            "label": "D",
+            "text": "Line-of-comms to at least 4 nodes"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "A",
+        "is_correct": true,
+        "explanation": "Section 8.7 states that node redundancy requires 'each cell-led operation requires line-of-comms to at least 2 nodes.'",
+        "topic_tag": "Communications Infrastructure"
+      },
+      {
+        "question_id": "45e468b1-8c78-4499-9a87-6eb253498b2b",
+        "section_id": 8,
+        "question": "Why is the asset restricted from entering the Cerro Castillo exclusion ring (1.6 km radius)?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Due to ongoing classified PAMC investigations since 2023"
+          },
+          {
+            "label": "B",
+            "text": "Due to psychological reasons and a CBMP recommendation"
+          },
+          {
+            "label": "C",
+            "text": "Due to jurisdictional disputes and pending bilateral agreements"
+          },
+          {
+            "label": "D",
+            "text": "Due to a lack of Yatiri-2 communications network coverage"
+          }
+        ],
+        "correct_label": "B",
+        "user_label": "C",
+        "is_correct": false,
+        "explanation": "Section 8.6 specifies that the reason for the Cerro Castillo exclusion ring restriction is 'Psychological; CBMP recommendation since 2020'.",
+        "topic_tag": "Restricted and Forbidden Zones"
+      },
+      {
+        "question_id": "f0aeff2f-1c4d-4ec5-a7bb-b74e38a5fe1c",
+        "section_id": 9,
+        "question": "During Case 2025-0156 (Cabrestante Neutralization), how was 'segmented suspension' applied as a tactical workaround for above-ceiling targets?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "By suspending the hydraulic arm at the elbow joint rather than the full augment"
+          },
+          {
+            "label": "B",
+            "text": "By increasing the asset's mass-ceiling stability to 300 kg using Calexin-7"
+          },
+          {
+            "label": "C",
+            "text": "By synchronizing the suspension field with an Echo Lock event"
+          },
+          {
+            "label": "D",
+            "text": "By coordinating the deployment of high-lux kits across three active cells"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "C",
+        "is_correct": false,
+        "explanation": "According to Section 9.9, the Cabrestante Neutralization involved a 'coordinated cell engagement utilizing segmented suspension (suspending the hydraulic arm at the elbow joint rather than the full augment)' which served as a tactical workaround for above-ceiling targets.",
+        "topic_tag": "Segmented Suspension Workaround"
+      },
+      {
+        "question_id": "dd838d2c-cb02-4ecf-b00e-9e48834b16d4",
+        "section_id": 9,
+        "question": "In the rare extra-territorial joint operation detailed in Case 2024-0156 (Tallinn-Asunción Liaison), which EUMR operatives did the asset coordinate with?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "HOLLOWMARK and VERIDIAN"
+          },
+          {
+            "label": "B",
+            "text": "Cataract and Cabrestante"
+          },
+          {
+            "label": "C",
+            "text": "Sgt. Quispe-Linares and Lt. Bauer-Cortez"
+          },
+          {
+            "label": "D",
+            "text": "Cpl. Adolfo Yáñez-Ríos and Director-General Espósito-Tagle"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "C",
+        "is_correct": false,
+        "explanation": "Section 9.9.6 states that Case 2024-0156 was a joint operation with EUMR operatives HOLLOWMARK and VERIDIAN, during which the asset spent 9 days in Tallinn coordinating intelligence handoff.",
+        "topic_tag": "Extra-Territorial Joint Operations"
+      },
+      {
+        "question_id": "36b96c76-87a9-410a-88b5-b17a55e83eb6",
+        "section_id": 9,
+        "question": "Which formal doctrine was articulated as a direct result of the pyrrhic outcome in Case 2022-0123 (Tropopausa First Engagement) in Mendoza?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Doctrine of Sequential Suspension"
+          },
+          {
+            "label": "B",
+            "text": "Doctrine of Segmented Suspension"
+          },
+          {
+            "label": "C",
+            "text": "Doctrine of Nocturnal Engagement"
+          },
+          {
+            "label": "D",
+            "text": "Doctrine of Extra-Territorial Interdiction"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "C",
+        "is_correct": false,
+        "explanation": "Section 9.4 notes that the Mendoza engagement (Case 2022-0123) 'triggered formal articulation of the Doctrine of Sequential Suspension' after an operative was KIA and the target escaped.",
+        "topic_tag": "Doctrine of Sequential Suspension"
+      },
+      {
+        "question_id": "e422557a-292f-4ee9-b2a8-c2391bf9a46b",
+        "section_id": 9,
+        "question": "Why is Case 2024-0202 (Quebrantadero Showdown) classified as 'Catastrophic' and studied at the Lima Academy as the asset's most prominent operational failure?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "An Echo Lock pulse struck a civilian-density urban target, causing 11 civilian deaths and 27 injuries"
+          },
+          {
+            "label": "B",
+            "text": "The entire tactical cell was captured, resulting in a loss of USD $4.2 million in assets"
+          },
+          {
+            "label": "C",
+            "text": "The asset suffered permanent ear barotrauma, ending active field deployments"
+          },
+          {
+            "label": "D",
+            "text": "The Concession successfully compromised the PAMC HQ internal database in Lima"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "C",
+        "is_correct": false,
+        "explanation": "Section 9.7 states that Case 2024-0202 had a 'Catastrophic' outcome because Quebrantadero's pulse struck a civilian-density urban target before SLATEFALL could interdict, resulting in 11 civilian deaths and 27 civilian injuries.",
+        "topic_tag": "Quebrantadero Operational Failure"
+      },
+      {
+        "question_id": "236ae886-bbd2-45ff-a2ef-8dfdd996b4b4",
+        "section_id": 9,
+        "question": "In Case 2021-0091 (Atacama Altiplano), which of the asset's abilities was operationally validated and added to the capability registry after interdicting three incoming small-arms rounds?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Drift Read"
+          },
+          {
+            "label": "B",
+            "text": "Suspended Field"
+          },
+          {
+            "label": "C",
+            "text": "Inertial Suspension"
+          },
+          {
+            "label": "D",
+            "text": "Segmented Suspension"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "C",
+        "is_correct": false,
+        "explanation": "Section 9.9.5 states that Case 2021-0091 was the 'First operationally validated deployment of the newly emerged Drift Read ability,' which was subsequently added to the capability registry on 30 September 2021.",
+        "topic_tag": "Drift Read Validation"
+      }
+    ]
+  }
+}
