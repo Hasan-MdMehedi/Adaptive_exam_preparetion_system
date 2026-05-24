@@ -1,6 +1,6 @@
 # Adaptive Document Preparation System
 
-An AI-powered adaptive study tool that ingests a multi-section PDF, generates MCQs using an LLM, collects user answers, scores them, persists a Knowledge Base of each session, and adapts future question sets based on historical weak areas.
+An AI-powered adaptive study tool that ingests a multi-section PDF, generates MCQs using an LLM, collects user answers, scores them, persists a Knowledge Base of each session and adapts future question sets based on historical weak areas.
 
 ---
 
@@ -78,7 +78,7 @@ streamlit run streamlit_app.py
 ### Flask REST API
 
 ```bash
-python app/main.py
+ python -m app.main
 # Runs at http://localhost:8000
 ```
 
