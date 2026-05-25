@@ -1,7 +1,5 @@
 """
 CLI — Adaptive Document Preparation System
-──────────────────────────────────────────
-Uses: click (available) + colorama (available)
 Commands:
   index        — index the PDF
   prep         — run a prep session

@@ -57,8 +57,8 @@ python cli.py index
 ### CLI
 
 ```bash
-# Interactive exam (you answer yourself)
-python cli.py prep "1,2" --no-simulate
+# Exam
+python cli.py prep "1,2" --simulate
 
 # View Knowledge Base history
 python cli.py snapshot
@@ -73,6 +73,7 @@ python cli.py history "8"
 pip install streamlit
 streamlit run streamlit_app.py
 # Opens at http://localhost:8501
+Give Exam through UI.
 ```
 
 ### Flask REST API
