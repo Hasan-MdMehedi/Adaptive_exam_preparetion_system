@@ -1,90 +1,93 @@
 {
-  "snapshot_taken_at": "2026-05-22T14:45:12.241742+00:00",
+  "snapshot_taken_at": "2026-05-26T04:18:26.399988+00:00",
   "sessions_shown": 5,
   "records": [
     {
-      "session_id": "c7fc9069-07a1-457b-948d-4e77c324c5b8",
-      "timestamp": "2026-05-22T14:45:12.201248+00:00",
+      "session_id": "001c1896-0feb-42de-8385-1a36270a73d6",
+      "timestamp": "2026-05-26T04:18:25.562165+00:00",
       "sections": [
         8,
         5
+      ],
+      "score_pct": 50.0,
+      "total_questions": 10,
+      "correct_count": 5,
+      "wrong_count": 5,
+      "weak_topics": [
+        "Drop-Tune Manoeuvre",
+        "Safehouse Operations",
+        "Secondary Base Functions",
+        "Communications Infrastructure",
+        "Restricted and Forbidden Zones"
+      ]
+    },
+    {
+      "session_id": "d3972cb2-e318-43f9-84b3-5145ddfb5738",
+      "timestamp": "2026-05-25T18:04:14.443272+00:00",
+      "sections": [
+        3,
+        7
       ],
       "score_pct": 70.0,
       "total_questions": 10,
       "correct_count": 7,
       "wrong_count": 3,
       "weak_topics": [
-        "Drop-Tune Manoeuvre",
-        "Restricted and Forbidden Zones",
-        "Safehouse Operations",
-        "Secondary Base Functions",
-        "Doctrine of Sequential Suspension"
+        "Drift Read Awakening",
+        "Tropopausa Operational Limits",
+        "Secondary Education and Athletics",
+        "El Sereno Weaknesses",
+        "Military Awards and Achievements"
       ]
     },
     {
-      "session_id": "5cdea2d1-3826-4806-b8aa-2bde28ab84be",
-      "timestamp": "2026-05-22T14:20:40.887163+00:00",
+      "session_id": "8ec7b48d-b4dc-477a-a613-f0528376dc0b",
+      "timestamp": "2026-05-25T17:59:12.998760+00:00",
       "sections": [
-        1
+        2
       ],
-      "score_pct": 80.0,
-      "total_questions": 5,
-      "correct_count": 4,
-      "wrong_count": 1,
+      "score_pct": 100.0,
+      "total_questions": 1,
+      "correct_count": 1,
+      "wrong_count": 0,
       "weak_topics": [
-        "Physical Characteristics",
-        "Operational Constraints",
-        "Language Proficiencies",
-        "Asset Designations",
-        "Academic Education"
+        "Core Mechanic Physics",
+        "Targeting Failure Rates",
+        "Mass Ceiling Limits"
       ]
     },
     {
-      "session_id": "381f8449-ac8a-482a-b362-53c890445b28",
-      "timestamp": "2026-05-22T14:19:44.074510+00:00",
+      "session_id": "2fd93f38-9fdb-4e38-a5ef-54553b5affee",
+      "timestamp": "2026-05-25T17:33:53.740341+00:00",
       "sections": [
-        5
+        10
       ],
-      "score_pct": 80.0,
-      "total_questions": 5,
-      "correct_count": 4,
-      "wrong_count": 1,
+      "score_pct": 0.0,
+      "total_questions": 2,
+      "correct_count": 0,
+      "wrong_count": 2,
       "weak_topics": [
-        "Drop-Tune Manoeuvre",
-        "Doctrine of Sequential Suspension",
-        "Three-Two-One Rule Violations"
+        "Threat Tier Classifications",
+        "Codename Identifications"
       ]
     },
     {
-      "session_id": "457104d0-2445-4159-8a80-19aff3138dd2",
-      "timestamp": "2026-05-22T14:01:12.196831+00:00",
+      "session_id": "3a0ed53d-e332-47eb-8fe5-fd69ab57af84",
+      "timestamp": "2026-05-25T17:18:36.554709+00:00",
       "sections": [
-        8
-      ],
-      "score_pct": 40.0,
-      "total_questions": 5,
-      "correct_count": 2,
-      "wrong_count": 3,
-      "weak_topics": [
-        "Restricted and Forbidden Zones",
-        "Safehouse Operations",
-        "Secondary Base Functions",
-        "Communications Infrastructure"
-      ]
-    },
-    {
-      "session_id": "4370081c-86c7-4c4c-ac90-5654a0e8d3d2",
-      "timestamp": "2026-05-22T05:24:23.577328+00:00",
-      "sections": [
+        3,
         7
       ],
       "score_pct": 60.0,
-      "total_questions": 5,
-      "correct_count": 3,
-      "wrong_count": 2,
+      "total_questions": 10,
+      "correct_count": 6,
+      "wrong_count": 4,
       "weak_topics": [
+        "Drift Read Awakening",
+        "Tropopausa Operational Limits",
+        "Secondary Education and Athletics",
         "El Sereno Weaknesses",
-        "Tropopausa Operational Limits"
+        "Military Awards and Achievements"
       ]
     }
   ],

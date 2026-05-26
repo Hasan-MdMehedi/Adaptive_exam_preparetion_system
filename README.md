@@ -58,6 +58,12 @@ python cli.py index
 
 ```bash
 # Exam
+For Answer the question Manually
+python cli.py prep "1,2" --interactive
+
+Automated Answer Simulation:
+python cli.py prep "1,2" 
+OR
 python cli.py prep "1,2" --simulate
 
 # View Knowledge Base history
@@ -113,7 +119,9 @@ Key endpoints:
 ### Scenario A — Cold start over any two sections
 
 ```bash
-python cli.py prep "3,7" --mcq 5 --simulate
+python cli.py prep "1,2" 
+OR
+python cli.py prep "1,2" --simulate
 ```
 
 ### Scenario B — Three consecutive adaptive iterations

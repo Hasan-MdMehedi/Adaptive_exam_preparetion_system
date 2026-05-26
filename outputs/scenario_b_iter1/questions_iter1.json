@@ -1,6 +1,6 @@
 {
   "iteration": 1,
-  "session_id": "c7fc9069-07a1-457b-948d-4e77c324c5b8",
+  "session_id": "001c1896-0feb-42de-8385-1a36270a73d6",
   "sections": [
     5,
     8
@@ -9,567 +9,567 @@
   "total_questions": 10,
   "questions": [
     {
-      "question_id": "8201977c-aa3a-4599-aadd-8362d6593626",
+      "question_id": "5ab3abbe-cdac-45ff-854a-67325c78abc6",
       "section_id": 5,
-      "question": "During the Drop-Tune Manoeuvre, what is the exact minimum time required for the contact-exclusion field to clear after releasing an object, and how is this rhythm trained?",
+      "question": "During a Drop-Tune Manoeuvre, what is the minimum duration required for the contact-exclusion field to clear after the asset releases an object, and how is this rhythm taught to new operatives?",
       "choices": [
         {
           "label": "A",
-          "text": "0.5 seconds, trained using a digital stopwatch cue"
+          "text": "0.5 seconds; using a visual strobe light cue"
         },
         {
           "label": "B",
-          "text": "0.3 seconds, trained using a metronome cue"
+          "text": "0.3 seconds; using a metronome cue"
         },
         {
           "label": "C",
-          "text": "1.2 seconds, trained using a visual strobe cue"
+          "text": "1.2 seconds; using a tactile vibration cue"
         },
         {
           "label": "D",
-          "text": "1.0 seconds, trained using an auditory alarm cue"
+          "text": "1.0 seconds; using a digital countdown timer"
         }
       ],
       "correct_label": "B",
-      "explanation": "Section 5.5 states that after releasing an object, the contact-exclusion field clears after ~0.3 seconds, and this exact 0.3 s minimum is trained using a metronome cue in Cell Halcón training videos.",
+      "explanation": "Section 5.5 states that the contact-exclusion field clears ~0.3 seconds after the asset releases an object, and Cell Halcón training videos use a metronome cue to instill this rhythm in new operatives.",
       "topic_tag": "Drop-Tune Manoeuvre",
       "source_chunk": ""
     },
     {
-      "question_id": "c1126f7c-8dfc-4057-b781-788af95294a3",
+      "question_id": "07a4bed7-0286-424a-8537-bffcd41c8775",
       "section_id": 5,
-      "question": "When a violation of the Three-Two-One Rule occurs, who triggers the automatic call-off, how is it monitored, and what has been the historical outcome of these documented violations?",
+      "question": "According to the Doctrine of Sequential Suspension (DSS), what is identified as the core vulnerability, and what specific window must be protected above all?",
       "choices": [
         {
           "label": "A",
-          "text": "Sgt. Quispe-Linares via physical site survey telemetry; 5 out of 7 violations produced operational anomalies."
+          "text": "Cooldown discipline; the 4.0-second recovery window"
         },
         {
           "label": "B",
-          "text": "Lt. Bauer-Cortez via Reset Bracer telemetry; 5 out of 7 violations produced operational anomalies."
+          "text": "Tail momentum; the 0.3-second release window"
         },
         {
           "label": "C",
-          "text": "Lt. Bauer-Cortez via Yatiri-3 burst comms; all 7 violations produced operational anomalies."
+          "text": "Acquisition; the 1.2-second targeting window"
         },
         {
           "label": "D",
-          "text": "Cpl. Vendrame via metabolic prep telemetry; 3 out of 5 violations produced operational anomalies."
+          "text": "Sequential activation; the 60-second operational window"
         }
       ],
-      "correct_label": "B",
-      "explanation": "Section 5.2 states that violations of the Three-Two-One Rule trigger an automatic call-off by the cell handler, Lt. Bauer-Cortez, who monitors via Reset Bracer telemetry. Out of 7 documented violations, 5 produced operational anomalies.",
-      "topic_tag": "Three-Two-One Rule Violations",
-      "source_chunk": ""
-    },
-    {
-      "question_id": "7a215a20-7d69-4d7c-9bbd-530e7b034645",
-      "section_id": 5,
-      "question": "According to the core principles of the Doctrine of Sequential Suspension (DSS), what specific pattern defines the sequence of lethality, and what is the rule regarding withdrawal?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Ordered chains of two; withdraw after four activations and reset."
-        },
-        {
-          "label": "B",
-          "text": "Ordered chains of three; withdraw after three activations and reset."
-        },
-        {
-          "label": "C",
-          "text": "Ordered chains of four; withdraw after two activations and reset."
-        },
-        {
-          "label": "D",
-          "text": "Continuous activations; withdraw only at 80% targeting fatigue."
-        }
-      ],
-      "correct_label": "B",
-      "explanation": "Section 5.1 outlines the core principles of the DSS: Principle 2 states that 'ordered chains of three define the doctrine', and Principle 6 states to 'Withdraw before exhaustion. Three activations and reset.'",
+      "correct_label": "C",
+      "explanation": "Principle 3 of the Doctrine of Sequential Suspension states: 'Acquisition is the vulnerability. Protect the 1.2-second targeting window above all.'",
       "topic_tag": "Doctrine of Sequential Suspension",
       "source_chunk": ""
     },
     {
-      "question_id": "0dabed5f-a79e-495a-b3b3-9012a6a7063e",
+      "question_id": "85e05df7-ead1-4a92-9250-d528ca26c107",
       "section_id": 5,
-      "question": "What operational advantage does the Drop-Tune Manoeuvre provide once the contact-exclusion field clears and the asset suspends the released object?",
+      "question": "Since 2022, how many violations of the Three-Two-One Rule have been documented, and how many of those resulted in operational anomalies?",
       "choices": [
         {
           "label": "A",
-          "text": "It allows a 1.2-second targeting window to protect the asset's acquisition vulnerability."
+          "text": "5 documented violations, with 3 producing operational anomalies"
         },
         {
           "label": "B",
-          "text": "It permits a meaningful one-second window between release and engagement target acquisition."
+          "text": "7 documented violations, with 5 producing operational anomalies"
         },
         {
           "label": "C",
-          "text": "It extends the Hold duration of the object up to 4 seconds."
+          "text": "12 documented violations, with 7 producing operational anomalies"
         },
         {
           "label": "D",
-          "text": "It increases the maximum simultaneously held objects in the Suspended Field to 4."
+          "text": "9 documented violations, with 6 producing operational anomalies"
         }
       ],
       "correct_label": "B",
-      "explanation": "Section 5.5 states that the Drop-Tune technique 'permits a meaningful one-second window between release and engagement target acquisition.'",
-      "topic_tag": "Drop-Tune Manoeuvre",
-      "source_chunk": ""
-    },
-    {
-      "question_id": "60d5bc4b-3c4a-446e-995b-f37ffc128d64",
-      "section_id": 5,
-      "question": "Under the Tier-Based Engagement Protocols, which PAMC Threat Tier strictly enforces the Three-Two-One Rule?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Tier 2"
-        },
-        {
-          "label": "B",
-          "text": "Tier 3"
-        },
-        {
-          "label": "C",
-          "text": "Tier 4"
-        },
-        {
-          "label": "D",
-          "text": "Tier 5"
-        }
-      ],
-      "correct_label": "B",
-      "explanation": "According to the table in Section 5.3, Threat Tier 3 requires a cell, lead authority, and has 'Three-Two-One enforced strictly' as its standing rule.",
+      "explanation": "Section 5.2 states that there have been 7 documented violations of the Three-Two-One Rule since 2022, of which 5 produced operational anomalies.",
       "topic_tag": "Three-Two-One Rule Violations",
       "source_chunk": ""
     },
     {
-      "question_id": "458df740-ea5b-42e8-ac78-e8be3e45fb0e",
-      "section_id": 8,
-      "question": "Under what specific conditions is the asset permitted to access the Salar de Uyuni Sector 4 in Bolivia?",
+      "question_id": "75b8b940-e89d-4eaf-8986-7953cba11673",
+      "section_id": 5,
+      "question": "What is the primary tactical purpose of the Drop-Tune Manoeuvre as described in the operational doctrine?",
       "choices": [
         {
           "label": "A",
-          "text": "Access is completely forbidden under all circumstances due to pending bilateral agreements."
+          "text": "To bypass the 12-meter visibility limit during whiteout conditions"
         },
         {
           "label": "B",
-          "text": "Limited access is permitted, requiring prior coordination due to an ongoing classified PAMC investigation."
+          "text": "To permit a meaningful one-second window between release and engagement target acquisition"
         },
         {
           "label": "C",
-          "text": "Access is unrestricted, provided the asset is accompanied by Cpl. Vendrame during semi-annual audits."
+          "text": "To achieve multi-baton strikes using the tertiary Hold ability"
         },
         {
           "label": "D",
-          "text": "Access is permitted only under direct authorization during extra-territorial deployments."
+          "text": "To extend the maximum duration of a single suspension to 4 seconds"
         }
       ],
       "correct_label": "B",
-      "explanation": "According to Section 8.6, Salar de Uyuni Sector 4 is restricted due to a strategic, ongoing classified PAMC investigation since 2023, and its status is 'Limited access, prior coordination required.'",
-      "topic_tag": "Restricted and Forbidden Zones",
+      "explanation": "Section 5.5 specifies that the Drop-Tune Manoeuvre 'permits a meaningful one-second window between release and engagement target acquisition.'",
+      "topic_tag": "Drop-Tune Manoeuvre",
       "source_chunk": ""
     },
     {
-      "question_id": "2812cb7e-1939-44d0-8191-9971715b7cac",
-      "section_id": 8,
-      "question": "Which of the following correctly describes the provisioning standards and audit schedule for the asset's five operational safehouses?",
+      "question_id": "0395d39d-d0e2-447c-822b-a7faba3319b4",
+      "section_id": 5,
+      "question": "Under the Doctrine of Sequential Suspension (DSS), what defines the lethal application of suspensions?",
       "choices": [
         {
           "label": "A",
-          "text": "15-day rations for 2 personnel, audited quarterly by Cell Halcón."
+          "text": "Ordered chains of three suspensions"
         },
         {
           "label": "B",
-          "text": "30-day rations for 4 personnel, audited semi-annually by Cpl. Vendrame."
+          "text": "A single decisive suspension activation"
         },
         {
           "label": "C",
-          "text": "45-day rations for 4 personnel, audited annually by the Director-General."
+          "text": "Continuous suspension maintained for up to 12 seconds"
         },
         {
           "label": "D",
-          "text": "60-day rations for 6 personnel, audited biennially by Operative MIRADOR."
+          "text": "Four simultaneous activations within a 60-second window"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Principle 2 of the Doctrine of Sequential Suspension states: 'Sequence determines lethality. A single suspension rarely wins an engagement; ordered chains of three define the doctrine.'",
+      "topic_tag": "Doctrine of Sequential Suspension",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "d2313058-7722-475a-8e60-420c7d5ef284",
+      "section_id": 8,
+      "question": "Who is responsible for auditing the standardized provisioning of the asset's operational safehouses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The Director-General"
+        },
+        {
+          "label": "B",
+          "text": "Cpl. Vendrame"
+        },
+        {
+          "label": "C",
+          "text": "Hermana Mendieta"
+        },
+        {
+          "label": "D",
+          "text": "Cell Cóndor Logistics Team"
         }
       ],
       "correct_label": "B",
-      "explanation": "Section 8.3 states that each safehouse maintains a standard provisioning of 30-day rations for 4 personnel, and safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
+      "explanation": "According to Section 8.3, safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
       "topic_tag": "Safehouse Operations",
       "source_chunk": ""
     },
     {
-      "question_id": "68ffbeb7-a4ac-44a2-857d-3b71e5f95d29",
+      "question_id": "fbf9ff42-dca5-41a0-8e0a-c76bc14106cc",
       "section_id": 8,
-      "question": "What redundancy requirement must be met for any cell-led operation within the asset's operational territory regarding the PAMC Yatiri network?",
+      "question": "What is the specific operational function designated for the Annex Trelew secondary base in Argentina?",
       "choices": [
         {
           "label": "A",
-          "text": "Direct line-of-comms to all 8 burst-relay nodes simultaneously."
+          "text": "Quarterly senior briefings and rotation headquarters"
         },
         {
           "label": "B",
-          "text": "Continuous connection to the Valparaíso primary node and at least one backup satellite uplink."
+          "text": "Field office for Bolivian altiplano operations"
         },
         {
           "label": "C",
-          "text": "Line-of-comms to at least 2 burst-relay nodes."
+          "text": "Logistics-only annex for southern operations"
         },
         {
           "label": "D",
-          "text": "A primary connection to the closest node and a secondary line to the nearest micro-cache."
+          "text": "Regional CBMP medical office and testing"
         }
       ],
       "correct_label": "C",
-      "explanation": "Section 8.7 states that node redundancy requires each cell-led operation to have a line-of-comms to at least 2 nodes.",
-      "topic_tag": "Communications Infrastructure",
-      "source_chunk": ""
-    },
-    {
-      "question_id": "7ab469ca-714c-4979-8bc0-19813fccf4c9",
-      "section_id": 8,
-      "question": "What is the primary function of the secondary base located at Edificio Avenida Salaverry 1840 in Lima?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "It serves as a logistics-only annex for southern operations."
-        },
-        {
-          "label": "B",
-          "text": "It acts as a field office dedicated to Bolivian altiplano operations."
-        },
-        {
-          "label": "C",
-          "text": "It serves as the PAMC Headquarters, where the asset rotates through quarterly for senior briefings."
-        },
-        {
-          "label": "D",
-          "text": "It acts as a regional micro-lab for CBMP medical research and storage."
-        }
-      ],
-      "correct_label": "C",
-      "explanation": "Section 8.2 lists the function of the Lima secondary base (Edificio Avenida Salaverry 1840) as 'PAMC Headquarters; the asset rotates through quarterly for senior briefings.'",
+      "explanation": "Section 8.2 lists Annex Trelew's function as a 'Logistics-only annex, southern operations'.",
       "topic_tag": "Secondary Base Functions",
       "source_chunk": ""
     },
     {
-      "question_id": "fd915424-b426-455f-835a-963a3e899ec6",
+      "question_id": "854d5915-a3c1-4018-aa42-e3224db347d5",
       "section_id": 8,
-      "question": "Why is the Cerro Castillo exclusion ring restricted, and what is the asset's history with this zone?",
+      "question": "For what reason is the Cerro Castillo exclusion ring (1.6 km radius) restricted, and what is the asset's current status regarding this zone?",
       "choices": [
         {
           "label": "A",
-          "text": "It is restricted due to jurisdictional disputes, and the asset has never been permitted to enter."
+          "text": "Jurisdictional conflict; the asset has not been authorized to enter since 2018"
         },
         {
           "label": "B",
-          "text": "It is restricted for psychological reasons based on a CBMP recommendation, and the asset has not entered since 2020."
+          "text": "Strategic investigation; limited access is permitted with prior coordination"
         },
         {
           "label": "C",
-          "text": "It is restricted due to an active EMP hazard, and the asset last accessed it in 2024."
+          "text": "Psychological reasons based on CBMP recommendation; the asset has not entered since 2020"
         },
         {
           "label": "D",
-          "text": "It is restricted for strategic investigation reasons, requiring prior coordination since 2023."
+          "text": "Environmental contamination; the zone has been completely sealed off since 2023"
         }
       ],
-      "correct_label": "B",
-      "explanation": "Section 8.6 states that the Cerro Castillo exclusion ring (1.6 km radius around the 2018 trigger site) is restricted due to 'Psychological; CBMP recommendation' and that 'The asset has not entered since 2020 since the 2018 incident.'",
+      "correct_label": "C",
+      "explanation": "Section 8.6 states that the Cerro Castillo exclusion ring is restricted due to 'Psychological; CBMP recommendation' and the status is 'The asset has not entered since 2020'.",
       "topic_tag": "Restricted and Forbidden Zones",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "913c02a8-98dc-48e8-af76-90c353fb7012",
+      "section_id": 8,
+      "question": "According to the redundancy requirements of the PAMC Yatiri network, what is required for each cell-led operation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Line-of-comms to at least 2 nodes"
+        },
+        {
+          "label": "B",
+          "text": "Direct uplink to the primary Yatiri relay node at Cuartel Valparaíso"
+        },
+        {
+          "label": "C",
+          "text": "A minimum of 3 active backup satellite uplinks"
+        },
+        {
+          "label": "D",
+          "text": "A dual-handset Yatiri-2 relay connection"
+        }
+      ],
+      "correct_label": "A",
+      "explanation": "Section 8.7 states: 'each cell-led operation requires line-of-comms to at least 2 nodes.'",
+      "topic_tag": "Communications Infrastructure",
+      "source_chunk": ""
+    },
+    {
+      "question_id": "a3e4b976-9e67-46e8-a2c9-46c53f860a69",
+      "section_id": 8,
+      "question": "What protocol must be followed when an operation is conducted outside the coverage of the 8 burst-relay nodes in the PAMC Yatiri network?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The asset must transition to a pre-established micro-cache communication set"
+        },
+        {
+          "label": "B",
+          "text": "The operation must be aborted and rescheduled within 36 months"
+        },
+        {
+          "label": "C",
+          "text": "The asset must obtain satellite uplink and Director's authorization"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral coordination with the Peruvian DAM is required"
+        }
+      ],
+      "correct_label": "C",
+      "explanation": "Section 8.7 states: 'Operations outside relay coverage require satellite uplink and Director's authorization.'",
+      "topic_tag": "Communications Infrastructure",
       "source_chunk": ""
     }
   ],
   "session_result": {
-    "session_id": "c7fc9069-07a1-457b-948d-4e77c324c5b8",
+    "session_id": "001c1896-0feb-42de-8385-1a36270a73d6",
     "sections": [
       8,
       5
     ],
-    "timestamp": "2026-05-22T14:45:12.201248+00:00",
+    "timestamp": "2026-05-26T04:18:25.562165+00:00",
     "total_questions": 10,
-    "correct_count": 7,
-    "wrong_count": 3,
-    "score_pct": 70.0,
+    "correct_count": 5,
+    "wrong_count": 5,
+    "score_pct": 50.0,
     "results": [
       {
-        "question_id": "8201977c-aa3a-4599-aadd-8362d6593626",
+        "question_id": "5ab3abbe-cdac-45ff-854a-67325c78abc6",
         "section_id": 5,
-        "question": "During the Drop-Tune Manoeuvre, what is the exact minimum time required for the contact-exclusion field to clear after releasing an object, and how is this rhythm trained?",
+        "question": "During a Drop-Tune Manoeuvre, what is the minimum duration required for the contact-exclusion field to clear after the asset releases an object, and how is this rhythm taught to new operatives?",
         "choices": [
           {
             "label": "A",
-            "text": "0.5 seconds, trained using a digital stopwatch cue"
+            "text": "0.5 seconds; using a visual strobe light cue"
           },
           {
             "label": "B",
-            "text": "0.3 seconds, trained using a metronome cue"
+            "text": "0.3 seconds; using a metronome cue"
           },
           {
             "label": "C",
-            "text": "1.2 seconds, trained using a visual strobe cue"
+            "text": "1.2 seconds; using a tactile vibration cue"
           },
           {
             "label": "D",
-            "text": "1.0 seconds, trained using an auditory alarm cue"
-          }
-        ],
-        "correct_label": "B",
-        "user_label": "B",
-        "is_correct": true,
-        "explanation": "Section 5.5 states that after releasing an object, the contact-exclusion field clears after ~0.3 seconds, and this exact 0.3 s minimum is trained using a metronome cue in Cell Halcón training videos.",
-        "topic_tag": "Drop-Tune Manoeuvre"
-      },
-      {
-        "question_id": "c1126f7c-8dfc-4057-b781-788af95294a3",
-        "section_id": 5,
-        "question": "When a violation of the Three-Two-One Rule occurs, who triggers the automatic call-off, how is it monitored, and what has been the historical outcome of these documented violations?",
-        "choices": [
-          {
-            "label": "A",
-            "text": "Sgt. Quispe-Linares via physical site survey telemetry; 5 out of 7 violations produced operational anomalies."
-          },
-          {
-            "label": "B",
-            "text": "Lt. Bauer-Cortez via Reset Bracer telemetry; 5 out of 7 violations produced operational anomalies."
-          },
-          {
-            "label": "C",
-            "text": "Lt. Bauer-Cortez via Yatiri-3 burst comms; all 7 violations produced operational anomalies."
-          },
-          {
-            "label": "D",
-            "text": "Cpl. Vendrame via metabolic prep telemetry; 3 out of 5 violations produced operational anomalies."
-          }
-        ],
-        "correct_label": "B",
-        "user_label": "B",
-        "is_correct": true,
-        "explanation": "Section 5.2 states that violations of the Three-Two-One Rule trigger an automatic call-off by the cell handler, Lt. Bauer-Cortez, who monitors via Reset Bracer telemetry. Out of 7 documented violations, 5 produced operational anomalies.",
-        "topic_tag": "Three-Two-One Rule Violations"
-      },
-      {
-        "question_id": "7a215a20-7d69-4d7c-9bbd-530e7b034645",
-        "section_id": 5,
-        "question": "According to the core principles of the Doctrine of Sequential Suspension (DSS), what specific pattern defines the sequence of lethality, and what is the rule regarding withdrawal?",
-        "choices": [
-          {
-            "label": "A",
-            "text": "Ordered chains of two; withdraw after four activations and reset."
-          },
-          {
-            "label": "B",
-            "text": "Ordered chains of three; withdraw after three activations and reset."
-          },
-          {
-            "label": "C",
-            "text": "Ordered chains of four; withdraw after two activations and reset."
-          },
-          {
-            "label": "D",
-            "text": "Continuous activations; withdraw only at 80% targeting fatigue."
+            "text": "1.0 seconds; using a digital countdown timer"
           }
         ],
         "correct_label": "B",
         "user_label": "C",
         "is_correct": false,
-        "explanation": "Section 5.1 outlines the core principles of the DSS: Principle 2 states that 'ordered chains of three define the doctrine', and Principle 6 states to 'Withdraw before exhaustion. Three activations and reset.'",
+        "explanation": "Section 5.5 states that the contact-exclusion field clears ~0.3 seconds after the asset releases an object, and Cell Halcón training videos use a metronome cue to instill this rhythm in new operatives.",
+        "topic_tag": "Drop-Tune Manoeuvre"
+      },
+      {
+        "question_id": "07a4bed7-0286-424a-8537-bffcd41c8775",
+        "section_id": 5,
+        "question": "According to the Doctrine of Sequential Suspension (DSS), what is identified as the core vulnerability, and what specific window must be protected above all?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Cooldown discipline; the 4.0-second recovery window"
+          },
+          {
+            "label": "B",
+            "text": "Tail momentum; the 0.3-second release window"
+          },
+          {
+            "label": "C",
+            "text": "Acquisition; the 1.2-second targeting window"
+          },
+          {
+            "label": "D",
+            "text": "Sequential activation; the 60-second operational window"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "A",
+        "is_correct": false,
+        "explanation": "Principle 3 of the Doctrine of Sequential Suspension states: 'Acquisition is the vulnerability. Protect the 1.2-second targeting window above all.'",
         "topic_tag": "Doctrine of Sequential Suspension"
       },
       {
-        "question_id": "0dabed5f-a79e-495a-b3b3-9012a6a7063e",
+        "question_id": "85e05df7-ead1-4a92-9250-d528ca26c107",
         "section_id": 5,
-        "question": "What operational advantage does the Drop-Tune Manoeuvre provide once the contact-exclusion field clears and the asset suspends the released object?",
+        "question": "Since 2022, how many violations of the Three-Two-One Rule have been documented, and how many of those resulted in operational anomalies?",
         "choices": [
           {
             "label": "A",
-            "text": "It allows a 1.2-second targeting window to protect the asset's acquisition vulnerability."
+            "text": "5 documented violations, with 3 producing operational anomalies"
           },
           {
             "label": "B",
-            "text": "It permits a meaningful one-second window between release and engagement target acquisition."
+            "text": "7 documented violations, with 5 producing operational anomalies"
           },
           {
             "label": "C",
-            "text": "It extends the Hold duration of the object up to 4 seconds."
+            "text": "12 documented violations, with 7 producing operational anomalies"
           },
           {
             "label": "D",
-            "text": "It increases the maximum simultaneously held objects in the Suspended Field to 4."
+            "text": "9 documented violations, with 6 producing operational anomalies"
           }
         ],
         "correct_label": "B",
-        "user_label": "A",
+        "user_label": "C",
         "is_correct": false,
-        "explanation": "Section 5.5 states that the Drop-Tune technique 'permits a meaningful one-second window between release and engagement target acquisition.'",
-        "topic_tag": "Drop-Tune Manoeuvre"
-      },
-      {
-        "question_id": "60d5bc4b-3c4a-446e-995b-f37ffc128d64",
-        "section_id": 5,
-        "question": "Under the Tier-Based Engagement Protocols, which PAMC Threat Tier strictly enforces the Three-Two-One Rule?",
-        "choices": [
-          {
-            "label": "A",
-            "text": "Tier 2"
-          },
-          {
-            "label": "B",
-            "text": "Tier 3"
-          },
-          {
-            "label": "C",
-            "text": "Tier 4"
-          },
-          {
-            "label": "D",
-            "text": "Tier 5"
-          }
-        ],
-        "correct_label": "B",
-        "user_label": "B",
-        "is_correct": true,
-        "explanation": "According to the table in Section 5.3, Threat Tier 3 requires a cell, lead authority, and has 'Three-Two-One enforced strictly' as its standing rule.",
+        "explanation": "Section 5.2 states that there have been 7 documented violations of the Three-Two-One Rule since 2022, of which 5 produced operational anomalies.",
         "topic_tag": "Three-Two-One Rule Violations"
       },
       {
-        "question_id": "458df740-ea5b-42e8-ac78-e8be3e45fb0e",
-        "section_id": 8,
-        "question": "Under what specific conditions is the asset permitted to access the Salar de Uyuni Sector 4 in Bolivia?",
+        "question_id": "75b8b940-e89d-4eaf-8986-7953cba11673",
+        "section_id": 5,
+        "question": "What is the primary tactical purpose of the Drop-Tune Manoeuvre as described in the operational doctrine?",
         "choices": [
           {
             "label": "A",
-            "text": "Access is completely forbidden under all circumstances due to pending bilateral agreements."
+            "text": "To bypass the 12-meter visibility limit during whiteout conditions"
           },
           {
             "label": "B",
-            "text": "Limited access is permitted, requiring prior coordination due to an ongoing classified PAMC investigation."
+            "text": "To permit a meaningful one-second window between release and engagement target acquisition"
           },
           {
             "label": "C",
-            "text": "Access is unrestricted, provided the asset is accompanied by Cpl. Vendrame during semi-annual audits."
+            "text": "To achieve multi-baton strikes using the tertiary Hold ability"
           },
           {
             "label": "D",
-            "text": "Access is permitted only under direct authorization during extra-territorial deployments."
+            "text": "To extend the maximum duration of a single suspension to 4 seconds"
           }
         ],
         "correct_label": "B",
         "user_label": "B",
         "is_correct": true,
-        "explanation": "According to Section 8.6, Salar de Uyuni Sector 4 is restricted due to a strategic, ongoing classified PAMC investigation since 2023, and its status is 'Limited access, prior coordination required.'",
-        "topic_tag": "Restricted and Forbidden Zones"
+        "explanation": "Section 5.5 specifies that the Drop-Tune Manoeuvre 'permits a meaningful one-second window between release and engagement target acquisition.'",
+        "topic_tag": "Drop-Tune Manoeuvre"
       },
       {
-        "question_id": "2812cb7e-1939-44d0-8191-9971715b7cac",
-        "section_id": 8,
-        "question": "Which of the following correctly describes the provisioning standards and audit schedule for the asset's five operational safehouses?",
+        "question_id": "0395d39d-d0e2-447c-822b-a7faba3319b4",
+        "section_id": 5,
+        "question": "Under the Doctrine of Sequential Suspension (DSS), what defines the lethal application of suspensions?",
         "choices": [
           {
             "label": "A",
-            "text": "15-day rations for 2 personnel, audited quarterly by Cell Halcón."
+            "text": "Ordered chains of three suspensions"
           },
           {
             "label": "B",
-            "text": "30-day rations for 4 personnel, audited semi-annually by Cpl. Vendrame."
+            "text": "A single decisive suspension activation"
           },
           {
             "label": "C",
-            "text": "45-day rations for 4 personnel, audited annually by the Director-General."
+            "text": "Continuous suspension maintained for up to 12 seconds"
           },
           {
             "label": "D",
-            "text": "60-day rations for 6 personnel, audited biennially by Operative MIRADOR."
+            "text": "Four simultaneous activations within a 60-second window"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "A",
+        "is_correct": true,
+        "explanation": "Principle 2 of the Doctrine of Sequential Suspension states: 'Sequence determines lethality. A single suspension rarely wins an engagement; ordered chains of three define the doctrine.'",
+        "topic_tag": "Doctrine of Sequential Suspension"
+      },
+      {
+        "question_id": "d2313058-7722-475a-8e60-420c7d5ef284",
+        "section_id": 8,
+        "question": "Who is responsible for auditing the standardized provisioning of the asset's operational safehouses?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "The Director-General"
+          },
+          {
+            "label": "B",
+            "text": "Cpl. Vendrame"
+          },
+          {
+            "label": "C",
+            "text": "Hermana Mendieta"
+          },
+          {
+            "label": "D",
+            "text": "Cell Cóndor Logistics Team"
           }
         ],
         "correct_label": "B",
         "user_label": "B",
         "is_correct": true,
-        "explanation": "Section 8.3 states that each safehouse maintains a standard provisioning of 30-day rations for 4 personnel, and safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
+        "explanation": "According to Section 8.3, safehouse provisioning is audited semi-annually by Cpl. Vendrame on behalf of the cell.",
         "topic_tag": "Safehouse Operations"
       },
       {
-        "question_id": "68ffbeb7-a4ac-44a2-857d-3b71e5f95d29",
+        "question_id": "fbf9ff42-dca5-41a0-8e0a-c76bc14106cc",
         "section_id": 8,
-        "question": "What redundancy requirement must be met for any cell-led operation within the asset's operational territory regarding the PAMC Yatiri network?",
+        "question": "What is the specific operational function designated for the Annex Trelew secondary base in Argentina?",
         "choices": [
           {
             "label": "A",
-            "text": "Direct line-of-comms to all 8 burst-relay nodes simultaneously."
+            "text": "Quarterly senior briefings and rotation headquarters"
           },
           {
             "label": "B",
-            "text": "Continuous connection to the Valparaíso primary node and at least one backup satellite uplink."
+            "text": "Field office for Bolivian altiplano operations"
           },
           {
             "label": "C",
-            "text": "Line-of-comms to at least 2 burst-relay nodes."
+            "text": "Logistics-only annex for southern operations"
           },
           {
             "label": "D",
-            "text": "A primary connection to the closest node and a secondary line to the nearest micro-cache."
+            "text": "Regional CBMP medical office and testing"
           }
         ],
         "correct_label": "C",
-        "user_label": "C",
-        "is_correct": true,
-        "explanation": "Section 8.7 states that node redundancy requires each cell-led operation to have a line-of-comms to at least 2 nodes.",
-        "topic_tag": "Communications Infrastructure"
-      },
-      {
-        "question_id": "7ab469ca-714c-4979-8bc0-19813fccf4c9",
-        "section_id": 8,
-        "question": "What is the primary function of the secondary base located at Edificio Avenida Salaverry 1840 in Lima?",
-        "choices": [
-          {
-            "label": "A",
-            "text": "It serves as a logistics-only annex for southern operations."
-          },
-          {
-            "label": "B",
-            "text": "It acts as a field office dedicated to Bolivian altiplano operations."
-          },
-          {
-            "label": "C",
-            "text": "It serves as the PAMC Headquarters, where the asset rotates through quarterly for senior briefings."
-          },
-          {
-            "label": "D",
-            "text": "It acts as a regional micro-lab for CBMP medical research and storage."
-          }
-        ],
-        "correct_label": "C",
-        "user_label": "C",
-        "is_correct": true,
-        "explanation": "Section 8.2 lists the function of the Lima secondary base (Edificio Avenida Salaverry 1840) as 'PAMC Headquarters; the asset rotates through quarterly for senior briefings.'",
+        "user_label": "D",
+        "is_correct": false,
+        "explanation": "Section 8.2 lists Annex Trelew's function as a 'Logistics-only annex, southern operations'.",
         "topic_tag": "Secondary Base Functions"
       },
       {
-        "question_id": "fd915424-b426-455f-835a-963a3e899ec6",
+        "question_id": "854d5915-a3c1-4018-aa42-e3224db347d5",
         "section_id": 8,
-        "question": "Why is the Cerro Castillo exclusion ring restricted, and what is the asset's history with this zone?",
+        "question": "For what reason is the Cerro Castillo exclusion ring (1.6 km radius) restricted, and what is the asset's current status regarding this zone?",
         "choices": [
           {
             "label": "A",
-            "text": "It is restricted due to jurisdictional disputes, and the asset has never been permitted to enter."
+            "text": "Jurisdictional conflict; the asset has not been authorized to enter since 2018"
           },
           {
             "label": "B",
-            "text": "It is restricted for psychological reasons based on a CBMP recommendation, and the asset has not entered since 2020."
+            "text": "Strategic investigation; limited access is permitted with prior coordination"
           },
           {
             "label": "C",
-            "text": "It is restricted due to an active EMP hazard, and the asset last accessed it in 2024."
+            "text": "Psychological reasons based on CBMP recommendation; the asset has not entered since 2020"
           },
           {
             "label": "D",
-            "text": "It is restricted for strategic investigation reasons, requiring prior coordination since 2023."
+            "text": "Environmental contamination; the zone has been completely sealed off since 2023"
           }
         ],
-        "correct_label": "B",
-        "user_label": "D",
-        "is_correct": false,
-        "explanation": "Section 8.6 states that the Cerro Castillo exclusion ring (1.6 km radius around the 2018 trigger site) is restricted due to 'Psychological; CBMP recommendation' and that 'The asset has not entered since 2020 since the 2018 incident.'",
+        "correct_label": "C",
+        "user_label": "C",
+        "is_correct": true,
+        "explanation": "Section 8.6 states that the Cerro Castillo exclusion ring is restricted due to 'Psychological; CBMP recommendation' and the status is 'The asset has not entered since 2020'.",
         "topic_tag": "Restricted and Forbidden Zones"
+      },
+      {
+        "question_id": "913c02a8-98dc-48e8-af76-90c353fb7012",
+        "section_id": 8,
+        "question": "According to the redundancy requirements of the PAMC Yatiri network, what is required for each cell-led operation?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "Line-of-comms to at least 2 nodes"
+          },
+          {
+            "label": "B",
+            "text": "Direct uplink to the primary Yatiri relay node at Cuartel Valparaíso"
+          },
+          {
+            "label": "C",
+            "text": "A minimum of 3 active backup satellite uplinks"
+          },
+          {
+            "label": "D",
+            "text": "A dual-handset Yatiri-2 relay connection"
+          }
+        ],
+        "correct_label": "A",
+        "user_label": "A",
+        "is_correct": true,
+        "explanation": "Section 8.7 states: 'each cell-led operation requires line-of-comms to at least 2 nodes.'",
+        "topic_tag": "Communications Infrastructure"
+      },
+      {
+        "question_id": "a3e4b976-9e67-46e8-a2c9-46c53f860a69",
+        "section_id": 8,
+        "question": "What protocol must be followed when an operation is conducted outside the coverage of the 8 burst-relay nodes in the PAMC Yatiri network?",
+        "choices": [
+          {
+            "label": "A",
+            "text": "The asset must transition to a pre-established micro-cache communication set"
+          },
+          {
+            "label": "B",
+            "text": "The operation must be aborted and rescheduled within 36 months"
+          },
+          {
+            "label": "C",
+            "text": "The asset must obtain satellite uplink and Director's authorization"
+          },
+          {
+            "label": "D",
+            "text": "Bilateral coordination with the Peruvian DAM is required"
+          }
+        ],
+        "correct_label": "C",
+        "user_label": "A",
+        "is_correct": false,
+        "explanation": "Section 8.7 states: 'Operations outside relay coverage require satellite uplink and Director's authorization.'",
+        "topic_tag": "Communications Infrastructure"
       }
     ]
   }
