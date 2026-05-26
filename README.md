@@ -83,6 +83,19 @@ Give Exam through UI.
 # Runs at http://localhost:8000
 ```
 
+```bash
+# Run in background
+docker-compose up --build -d
+
+# Run Scenario B inside container
+docker-compose exec api python cli.py scenario-b
+
+# Run tests inside container
+docker-compose exec api python tests/test_system.py
+
+# Stop everything
+docker-compose down
+```
 Key endpoints:
 
 | Method | Endpoint | Description |

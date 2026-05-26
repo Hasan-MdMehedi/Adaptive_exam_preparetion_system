@@ -1,0 +1,49 @@
+version: "3.9"
+
+services:
+
+  #Flask REST API
+  api:
+    build: .
+    container_name: adaptive_prep_api
+    command: sh -c "python cli.py index && python -m app.main"
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data           # DB + chunks persist on host
+      - ./outputs:/app/outputs     # Scenario B outputs persist
+    env_file:
+      - .env
+    environment:
+      - FLASK_ENV=development
+    restart: unless-stopped
+
+  # Streamlit Web UI
+  ui:
+    build: .
+    container_name: adaptive_prep_ui
+    command: streamlit run streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data           # Same DB shared with API
+      - ./outputs:/app/outputs
+    env_file:
+      - .env
+    depends_on:
+      - api
+    restart: unless-stopped
+
+  # Scenario B (one-off evaluation runner)
+  scenario_b:
+    build: .
+    container_name: adaptive_prep_scenario_b
+    command: sh -c "python cli.py index && python cli.py scenario-b --mcq 5 --wrong-pct 0.35"
+    volumes:
+      - ./data:/app/data
+      - ./outputs:/app/outputs
+    env_file:
+      - .env
+    profiles:
+      - scenario              # only runs when explicitly called
+    restart: "no"
